@@ -5,6 +5,8 @@ interface Props {
   onClose: () => void;
 }
 
+// ES7+ - rafce // React Arrouw function export component
+
 const Alert = ({ children, onClose }: Props) => {
   return (
     <div className="alert alert-primary alert-dismissible">

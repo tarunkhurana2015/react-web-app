@@ -7,6 +7,7 @@ interface ListGroupProps {
 }
 
 function ListGroup({ items, heading, onSelectItem }: ListGroupProps) {
+  // destructure the props
   // Hook
   const [selectedIndex, setSelectedIndex] = useState(-1);
 
