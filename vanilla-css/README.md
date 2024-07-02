@@ -1,2 +1,2 @@
-# react-web-app
+# react-vanilla-css-project
 
