@@ -30,3 +30,10 @@ Open Visual studio, inside the terminal
 1. https://babeljs.io
 2. React Developer Tools for chrome
 3. CSS library - https://getbootstrap.com/docs/5.3/components/accordion/
+
+## Code Objective
+This sample project demonstrates the useage of
+1. Components
+2. Props
+3. Actions
+4. UseState
