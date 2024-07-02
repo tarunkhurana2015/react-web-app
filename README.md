@@ -28,11 +28,11 @@ Open Visual studio, inside the terminal
 
 ## Supporting Tools
 1. https://babeljs.io
-   ```node
-   npm install bootstrap@5.2.3
-   ```
 2. React Developer Tools for chrome
 3. CSS library - https://getbootstrap.com/docs/5.3/components/accordion/
+    ```node
+   npm install bootstrap@5.2.3
+   ```
 
 ## Code Objective
 This sample project demonstrates the useage of
