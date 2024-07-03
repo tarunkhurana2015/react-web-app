@@ -6,12 +6,12 @@ interface Props {
   onSeletItem: (item: string) => void;
 }
 
-const ListGroup = ({ items, heading, onSeletItem }: Props) => {
+const ListGroup4 = ({ items, heading, onSeletItem }: Props) => {
   const [selectedIndex, setSelectedIndex] = useState(-1);
   return (
     <>
       <h1>{heading}</h1>
-      <ul className="list-group">
+      <ul className="list-group" style={{ backgroundColor: "green" }}>
         {items.map((item, index) => (
           <li
             className={
@@ -33,4 +33,4 @@ const ListGroup = ({ items, heading, onSeletItem }: Props) => {
   );
 };
 
-export default ListGroup;
+export default ListGroup4;
