@@ -1,4 +1,4 @@
-# Vite-scaffholding-project
+# managing-component-state
 
 ## Create a scaffholding Vite project
 
@@ -17,7 +17,7 @@ Ok to proceed? (y) y
 ## Install Node Packages
 
 ```js
-cd gaming-app
+cd managing-component-state
 npm install
 ```
 
@@ -31,20 +31,13 @@ Open Visual studio, inside the terminal
 1. ES7+ React/Redux/React-Native snippets
 2. Prettier - Code formatter
 
-## Supporting Tools
-
-1. https://babeljs.io
-2. React Developer Tools for chrome
-3. CSS library - https://getbootstrap.com/docs/5.3/components/accordion/
-   ```node
-   npm install bootstrap@5.2.3
-   ```
-
 ## Code Objective
 
-This sample project demonstrates the useage of
+This sample project demonstrates the state management using `useState` hook.
 
-1. Components
-2. Props
-3. Actions
-4. UseState
+1. Updating Objects
+2. Updating Arrays
+3. Updating Array of Objects
+4. Updating Nested Objects
+5. Update using Immer `npm install immer@9.0.19`
+6. Sharing State Updates between Components
