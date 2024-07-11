@@ -43,4 +43,4 @@ This sample project demonstrates the `Form` building using -
 1. `useRef` from `react` - Add `event.preventDefault();` to prevent the form from refreshing on submit.
 2. `useState` hook from `react` - The state is updating on every character enterted.
 3. `useForm` hook from `react` - Enables error handling for free. `npm i react-hook-form@7.43`
-4. `shema based vlaidation` - `npm i zod@3.20.6` and `npm i @hookform/resolvers@2.9.11`
+4. `shema based vlaidation` - `npm i zod@3.20.6` and `npm i @hookform/resolvers@2.9.11`. https://zod.dev
