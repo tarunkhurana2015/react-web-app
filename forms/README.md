@@ -44,3 +44,6 @@ This sample project demonstrates the `Form` building using -
 2. `useState` hook from `react` - The state is updating on every character enterted.
 3. `useForm` hook from `react` - Enables error handling for free. `npm i react-hook-form@7.43`
 4. `shema based vlaidation` - `npm i zod@3.20.6` and `npm i @hookform/resolvers@2.9.11`. https://zod.dev
+
+<img width="407" alt="image" src="https://github.com/tarunkhurana2015/react-web-app/assets/9640541/172f524c-d904-438a-aa72-42e3d427d4a6">
+
